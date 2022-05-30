@@ -7,7 +7,7 @@ VORON2.4: https://github.com/VoronDesign/Voron-2
 VORONTrident: https://github.com/VoronDesign/Voron-Trident
 
 # Goal: 
-Provide a clean upgrade path from a stock V2.4 to an insulated V2.4 with a solid extrusion door, with minimal printed parts required and no core functional part changes. This means you can purchase a V2.4 printed functional parts kit and build this without any additional parts, then print the remaining cosmetic skirt pieces.
+Provide a clean upgrade path from a stock V2.4 to an insulated V2.4 with a solid extrusion door, with minimal printed parts required and no core functional part changes. This means you can purchase a V2.4 printed functional parts kit and build this without any additional printed parts, then print the remaining cosmetic skirt pieces.
 
 ![Fusion360_0TtBcjJM2s](https://user-images.githubusercontent.com/11861478/171031532-641ca7b6-a971-4187-abaf-29e61f68fe8d.png)
 
